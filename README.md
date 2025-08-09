@@ -5,6 +5,8 @@ This repo contains the files in which I have worked during my Machine Learning i
 # Task 1
 Objective: Build a machine learning model to predict the aggregate rating of a restaurant based on other features.
 
+https://colab.research.google.com/drive/1Y6mXcCrWCwAD4V_ocfSOqrVyjG9d8NMI
+
 ## Steps :
 * Preprocess the dataset by handling missing values, encoding categorical variables, and splitting the data into training and testing sets.
 * Select a regression algorithm (e.g., linear regression, decision tree regression) and train it on the training data.
@@ -13,6 +15,8 @@ Objective: Build a machine learning model to predict the aggregate rating of a r
 
 # Task 2 :
 Objective: Create a restaurant recommendation system based on user preferences.
+
+https://colab.research.google.com/drive/15vwlM6fUGWjAU-7vn7X_PhPKi_vaNd1c
 
 ## Steps :
 * Preprocess the dataset by handling missing values and encoding categorical variables.
@@ -23,6 +27,8 @@ Objective: Create a restaurant recommendation system based on user preferences.
 # Task 3 
 Objective: Develop a machine learning model to classify restaurants based on their cuisines.
 
+https://colab.research.google.com/drive/1PkHbJt6ar-Yhz2Xmw2g_R55SU6r2Ut0q
+
 ## Steps :
 * Preprocess the dataset by handling missing values and encoding categorical variables.
 * Split the data into training and testing sets.
@@ -32,6 +38,8 @@ Objective: Develop a machine learning model to classify restaurants based on the
 
 # Task 4 :
 Objective: Perform a geographical analysis of the restaurants in the dataset.
+
+https://colab.research.google.com/drive/1s2NBYxKc94CV99l285_DNo1cFlNLZiFO#scrollTo=D7yAVzkjICx5
 
 ## Steps : 
 * Explore the latitude and longitude coordinates of the restaurants and visualize their distribution on a map.
